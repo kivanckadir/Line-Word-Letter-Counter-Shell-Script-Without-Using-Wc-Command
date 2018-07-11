@@ -3,7 +3,7 @@
 
 ## Running the tests
 
-### my.txt
+### Input - my.txt
 
 Scientists who think that children learn aggressive behaviour from TV
 
@@ -21,5 +21,6 @@ children are watching, discuss it with your child and tell them that
 
 this kind of behaviour is not good and not the way to solve problems.
 
-### [1306130027][project1].png
+### Output - 1306130027][project1].png
 
+![alt text](https://github.com/kivanckadir/Line-Word-Letter-Counter-Shell-Script-Without-Using-Wc-Command/blob/master/%5B1306130027%5D%5Bproject1%5D.png)
